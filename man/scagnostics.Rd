@@ -8,7 +8,7 @@
 \alias{scagnosticsExemplars}
 \alias{scagnosticsGrid}
 \title{Calculcate scagnostics for pairs of variables}
-\author{Lee Wilkinson <leland@spss.com>, Anushka Anand (University of
+\author{Lee Wilkinson <leland.wilkinson@gmail.com>, Anushka Anand (University of
 Illinois at Chicago), R package: Simon Urbanek
 <simon.urbanek@r-project.org>}
 \description{
@@ -45,6 +45,12 @@ pair of variables.
   guided by pairwise views of point distributions}. IEEE Transactions
   on Visualization and Computer Graphics, November/December 2006
   (Vol. 12, No. 6) pp. 1363-1372.
+
+  Wilkinson L., Anand, A., and Grossman, R. (2005).
+  \emph{Graph-Theoretic Scagnostics}. Proceedings of the 2005 IEEE
+  Symposium on Information Visualization, p. 21.
+  
+  \url{http://www.cs.uic.edu/~wilkinson/}
 }
 \examples{
 # tesing various forms
