@@ -2,7 +2,8 @@
 --------------------------------
 
 0.2-4	(under development)
-
+    o	fix a bug in normalizePoints() causing all-negative
+	data to be scaled incorrectly
 
 0.2-3	2009-01-27
     o	updated documentation, added examples
@@ -18,4 +19,4 @@
 
 0.1	[scagnostics 0.1 was a different package mainained by Hadley
 	 Wickham based on the same work of Wilkinson et al. In order
-	 to not confuse the two package we didn't use version 0.1]
+	 to not confuse the two packages we didn't use version 0.1]
