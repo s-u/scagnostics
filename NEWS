@@ -1,6 +1,12 @@
  NEWS/ChangeLog for scagnostics
 --------------------------------
 
+0.2-6
+    o	update NAMESPACE to modern standards
+
+    o	check incoming data to make sure it is numeric and
+	not constant
+
 0.2-5	2013-03-11
     o	license clarificaion in DESCRIPTION
 
