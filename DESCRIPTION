@@ -6,4 +6,4 @@ Maintainer: Simon Urbanek <simon.urbanek@r-project.org>
 Depends: rJava
 Description: Calculates graph theoretic scagnostics. Scagnostics describe various measures of interest for pairs of variables, based on their appearance on a scatterplot.  They are useful tool for discovering interesting or unusual scatterplots from a scatterplot matrix, without having to look at every individual plot.
 License: BSD_2_clause + file LICENSE
-URL: http://www.rforge.net/scagnostics/, http://www.cs.uic.edu/~wilkinson/
+URL: https://www.rforge.net/scagnostics/, https://www.cs.uic.edu/~wilkinson/
